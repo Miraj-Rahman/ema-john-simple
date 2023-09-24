@@ -1,0 +1,12 @@
+.cart {
+  width: 264px;
+  height: 944px;
+  background-color: #ff99004d;
+  padding-left: 25px;
+  position: sticky;
+  top: 0;
+}
+
+.cart p {
+  font-size: 17px;
+}
